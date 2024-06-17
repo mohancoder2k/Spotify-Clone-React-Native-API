@@ -15,13 +15,15 @@ Before you begin, ensure you have met the following requirements:
 2) You have installed Expo CLI globally (npm install -g expo-cli).
 3) You have a Spotify Developer account and have created an application to obtain your clientId and clientSecret.
 
-Installation
-Clone the repository:
+Installation :
+--------------
 
-1) 
+1) Clone the repository: 
 git clone https://github.com/mohancoder2k/Spotify-Clone-React-Native-API
 cd spotify-clone
 
-2) npm install
+2) Intall the dependencies :
+ npm install
 
-3) npx expo start 
+3) Run the Project :
+ npx expo start 
